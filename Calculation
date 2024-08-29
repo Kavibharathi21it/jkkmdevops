@@ -6,5 +6,5 @@ val = val + a[i];
 }
 
 return val 
-
+Systm.out.println(" This is add funtion ");
 }
