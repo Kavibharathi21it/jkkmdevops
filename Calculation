@@ -4,7 +4,7 @@ int val = 0 ;
 for(int i ; i < a.size() ; i++){
 val = val + a[i];
 }
-
+System.out.println(" This is code of Add ()");
 return val 
 
 }
